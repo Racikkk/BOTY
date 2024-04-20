@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["OGLĄDA LARGEHUB.PL"];
 
 
 let currentIndex = 0;
